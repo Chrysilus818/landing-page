@@ -1,0 +1,1 @@
+This is my Landing Page project utilizing CSS for The Odin Project.  All photos are from https://pixabay.com
